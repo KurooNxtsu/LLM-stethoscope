@@ -2,8 +2,6 @@
 
 LLM Stethoscope is a cross-platform application designed to interface with Large Language Models (LLMs), offering tools for experimentation, analysis, and visualization. The project features multi-platform support (Android, iOS, Web, Linux, macOS, Windows) and uses Firebase for backend services and authentication.
 
-> **Note:** This README is generated based on a partial file structure. For the complete structure, [view all files on GitHub](https://github.com/Reboot2004/LLM-stethoscope/tree/master).
-
 ---
 
 ## Features
@@ -87,17 +85,7 @@ LLM Stethoscope is a cross-platform application designed to interface with Large
 
 ---
 
-## License
-
-Distributed under the MIT License. See [`LICENSE`](https://github.com/Reboot2004/LLM-stethoscope/blob/master/LICENSE) for more information.
-
----
-
 ## Acknowledgements
 
 - [Flutter](https://flutter.dev/)
 - [Firebase](https://firebase.google.com/)
-
----
-
-> **Disclaimer:** This README was generated based on a partial file structure. For the full file listing and up-to-date documentation, please refer to the [GitHub repository](https://github.com/Reboot2004/LLM-stethoscope/tree/master).
